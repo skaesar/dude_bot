@@ -1,0 +1,13 @@
+# Секреты
+.env
+
+# Логи
+logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Docker
+*.log
